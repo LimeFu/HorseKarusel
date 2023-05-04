@@ -1,0 +1,9 @@
+database:
+  host: localhost
+  port: 27017
+  username: root
+  database_name: horses
+
+horse_count: 5
+speed: 0.2
+radius: 10

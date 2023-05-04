@@ -1,0 +1,5 @@
+name: HorseKaruseel
+version: '${version}'
+main: dev.limefu.ua.horsekaruseel.HorseKaruseel
+authors: [ LimeFu ]
+description: Plugin for a add karuseel to Minecraft
